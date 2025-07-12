@@ -43,9 +43,18 @@ Before you begin, ensure you have the following installed on your system:
 
 Follow these steps to get the application running locally on your machine.
 
-### 1. Clone the Repository
+### Clone the Repository
 
 First, clone the project from GitHub to your local machine:
 ```bash
 git clone https://github.com/Danush6123/Movie-Script-Generation-using-LLM.git
 cd Movie-Script-Generation-using-LLM
+```
+### DEVELOPERS
+**Danush G** - https://github.com/Danush6123
+
+**Rachana  P** - https://github.com/Rachana904
+
+**Rishith P** - https://github.com/rishith15
+
+**Harshini P Raiker** - https://github.com/harshinipraiker
